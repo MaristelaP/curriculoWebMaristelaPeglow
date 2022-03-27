@@ -2,4 +2,6 @@
     font-size: 300%;
     position: fixed;
     color: green;
+    bottom: 40px;
+    right: 40px;
 }
